@@ -1,9 +1,16 @@
 YouTube Clone with React Redux Toolkit Tailwind CSS YouTube API and Node.js 😀.
+![1](https://github.com/avinashverma0560/-Youtube-Clone-Using-React/assets/165274356/df595732-81c0-4faa-9ffe-d77b3b102c18)
+
+
+
+
 This YouTube Clone 🎥is a web application developed using cutting-edge technologies to replicate the familiar and feature-rich experience of the popular video-sharing platform YouTube. The project utilizes React for the frontend ,Redux Toolkit for state management, Tailwind CSS for styling 😎 YouTube API for fetching video content a Search Suggestion API for enhanced user experience and Node.js for developed small server to handle video downloads ⬇️.
-🚀 Demo
+
+# 🚀 Demo
 
 👉https://samtube-youtube-clone.vercel.app
-📂Project Screenshots:
+
+# 📂Project Screenshots:
 Light Theme ☀️
 project-screenshot 	
 Dark Theme 🌙
