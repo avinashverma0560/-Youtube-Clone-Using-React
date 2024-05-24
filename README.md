@@ -67,7 +67,7 @@ Here're some of the project's 💹best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/Sameerkhan9412/Youtube-Clone-Using-React.git
+git clone https://github.com/avinashverma0560/-Youtube-Clone-Using-React.git
 ```
 
 <p>2. Install the dependencies for frontend</p>
